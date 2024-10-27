@@ -1,0 +1,9 @@
+---
+layout: content
+title: Just The Boss Fights
+permalink: /justthebossfights/
+---
+# Just The Boss Fights - 
+<iframe src="https://drive.google.com/file/d/1MNKKdd6YfdjeVJ12DN76IcVEHr2CESp1/preview" style="border:none; padding: 1rem;" width="828rem" height="480rem" allowfullscreen = "allow" align="center"></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just The Boss Fights is a side-scroller boss rush game that forces players to quickly adapt to both new abilities and enemies as the player skips throughout their bugged game to only experience the boss fights. Each boss fight comes with not only new attacks and boss mechanics, but an entirely new loadout for the player to quickly learn at the same time. The game is a larger scale project both in time and team size, with a planned development time of about 7 months from prototyping to release and a team of roughly 30 people all working on it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the game is still early in development we have created a solid framework and are swiftly creating content for the game and further refining how the game will continue further grow. My focus during development has been creating the main controller for each scene and allowing the scenes to communicate with the rest of the game. This includes the managing the different states each scene can be in and making shifts between each easy to implement and work smoothly. I have also worked on implementing one of the new bosses and the player's corresponding abilites, from implementing the boss's many attacks and how it shifts through each of its phases and patterns to making sure it does so smoothly and without issue. The player's abilities I have implemented also vary greatly from previous abilities and feel both intuitive and responsive to the player.
