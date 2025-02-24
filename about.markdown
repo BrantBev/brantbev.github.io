@@ -9,7 +9,7 @@ permalink: /about/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am currently working on self-publishing my boardgame prototype online along with potential further development and developing future game projects including both boardgames and videogames, along with other coding projects as I think of them.
 
 ---
-## [Link to Resume](/assets/Resume-SoftwareDevCENSORED.pdf/)
+## [Resume](/assets/Resume-SoftwareDevCENSORED.pdf/)
 
 ---
 ## Contact Information
